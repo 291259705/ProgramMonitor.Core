@@ -5,3 +5,11 @@ E:\learn\WCFProgram\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.dll
 E:\learn\WCFProgram\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.pdb
 E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\log4net.dll
 E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\log4net.xml
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.dll.config
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.dll
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.pdb
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\bin\Debug\log4net.dll
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\bin\Debug\log4net.xml
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.csprojResolveAssemblyReference.cache
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.dll
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.pdb

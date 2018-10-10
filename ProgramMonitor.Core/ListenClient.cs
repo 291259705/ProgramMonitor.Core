@@ -70,7 +70,7 @@ namespace ProgramMonitor.Core
 
                 //使用时，请使用正确的接口
                 var baseAddress = new Uri(string.Format("net.tcp://{0}/ListenService", serviceHostAddr)); //联调地址
-                //baseAddress = new Uri("net.tcp://localhost/ListenService.svc"); // 发布之后的地址
+                //baseAddress = new Uri("net.tcp://127.0.0.1/ListenService.svc"); // 发布之后的地址
 
                 listenServiceFactory = new DuplexChannelFactory<IListenService>(instanceContext, binding, new EndpointAddress(baseAddress));
             }

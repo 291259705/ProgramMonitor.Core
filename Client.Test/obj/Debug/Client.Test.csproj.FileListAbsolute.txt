@@ -18,3 +18,13 @@ E:\learn\WCFProgram\Client.Test\bin\Debug\ProgramMonitor.Core.dll
 E:\learn\WCFProgram\Client.Test\bin\Debug\ProgramMonitor.Core.pdb
 E:\learn\WCFProgram\Client.Test\bin\Debug\log4net.xml
 E:\learn\WCFProgram\Client.Test\obj\Debug\Client.Test.csprojResolveAssemblyReference.cache
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\Client.Test.exe.config
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\obj\Debug\Client.Test.exe
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\obj\Debug\Client.Test.pdb
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\Client.Test.exe
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\Client.Test.pdb
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\log4net.dll
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\ProgramMonitor.Core.dll
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\ProgramMonitor.Core.pdb
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\bin\Debug\log4net.xml
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Client.Test\obj\Debug\Client.Test.csprojResolveAssemblyReference.cache
