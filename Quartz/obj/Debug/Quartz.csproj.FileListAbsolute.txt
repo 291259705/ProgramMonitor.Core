@@ -1,0 +1,12 @@
+E:\learn\WCFProgram\Quartz\bin\Debug\ConApp0926.exe.config
+E:\learn\WCFProgram\Quartz\obj\Debug\ConApp0926.exe
+E:\learn\WCFProgram\Quartz\obj\Debug\ConApp0926.pdb
+E:\learn\WCFProgram\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache
+E:\learn\WCFProgram\Quartz\bin\Debug\ConApp0926.exe
+E:\learn\WCFProgram\Quartz\bin\Debug\ConApp0926.pdb
+E:\learn\WCFProgram\Quartz\bin\Debug\log4net.xml
+E:\learn\WCFProgram\Quartz\bin\Debug\Quartz.pdb
+E:\learn\WCFProgram\Quartz\bin\Debug\Quartz.xml
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Quartz\bin\Debug\ConApp0926.exe.config
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Quartz\obj\Debug\ConApp0926.exe
+E:\GitHub\ProgramMonitor.Core\ProgramMonitor.Core\Quartz\obj\Debug\ConApp0926.pdb

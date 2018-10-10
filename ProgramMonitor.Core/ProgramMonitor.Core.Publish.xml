@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="E:\learn\publish\">
+    <file relUrl="ListenService.svc" publishTime="10/08/2018 11:38:42" />
+    <file relUrl="bin/ProgramMonitor.Core.dll.config" publishTime="10/08/2018 12:20:00" />
+    <file relUrl="bin/log4net.dll" publishTime="10/08/2018 16:50:36" />
+    <file relUrl="ProgramMonitor.Core.ListenService.svc" publishTime="10/09/2018 11:15:08" />
+    <file relUrl="Web.config" publishTime="10/08/2018 12:20:00" />
+    <file relUrl="bin/log4net.xml" publishTime="10/08/2018 16:50:36" />
+    <file relUrl="bin/ProgramMonitor.Core.pdb" publishTime="10/09/2018 11:14:37" />
+    <file relUrl="bin/ProgramMonitor.Core.dll" publishTime="10/09/2018 11:14:37" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,13 @@
+E:\learn\ConApp0926\ConApp0926\bin\Debug\ConApp0926.exe.config
+E:\learn\ConApp0926\ConApp0926\bin\Debug\ConApp0926.exe
+E:\learn\ConApp0926\ConApp0926\bin\Debug\ConApp0926.pdb
+E:\learn\ConApp0926\ConApp0926\obj\Debug\ConApp0926.exe
+E:\learn\ConApp0926\ConApp0926\obj\Debug\ConApp0926.pdb
+E:\learn\ConApp0926\ConApp0926\obj\Debug\ConApp0926.csprojResolveAssemblyReference.cache
+E:\learn\ConApp0926\ConApp0926\bin\Debug\Quartz.dll
+E:\learn\ConApp0926\ConApp0926\bin\Debug\Quartz.pdb
+E:\learn\ConApp0926\ConApp0926\bin\Debug\Quartz.xml
+E:\learn\ConApp0926\ConApp0926\bin\Debug\log4net.dll
+E:\learn\ConApp0926\ConApp0926\bin\Debug\log4net.xml
+E:\learn\ConApp0926\ConApp0926\bin\Debug\ProgramService.dll
+E:\learn\ConApp0926\ConApp0926\bin\Debug\ProgramService.pdb

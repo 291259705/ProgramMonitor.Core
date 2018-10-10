@@ -1,0 +1,7 @@
+E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.dll.config
+E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.dll
+E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\ProgramMonitor.Core.pdb
+E:\learn\WCFProgram\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.dll
+E:\learn\WCFProgram\ProgramMonitor.Core\obj\Debug\ProgramMonitor.Core.pdb
+E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\log4net.dll
+E:\learn\WCFProgram\ProgramMonitor.Core\bin\Debug\log4net.xml

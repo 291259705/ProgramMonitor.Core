@@ -1,0 +1,1 @@
+<%@ ServiceHost Service="ProgramMonitor.Core.ListenService" %>
